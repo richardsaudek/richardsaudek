@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm Richard Saudek, a full-stack software engineer!
+My coding journey in 2023 when I took the leap to change careers and attend bootcamp. 
+
+email: richard.saudek@gmail.com
+linkedin: linkedin.com/in/richard-saudek/
+
 
 <!--
 **richardsaudek/richardsaudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
